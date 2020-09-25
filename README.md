@@ -8,5 +8,4 @@ Steps to take:
   2. Go to directory and run 'npm install' to download required libraries
   3. Run index.js with 'node index.js'
   4. Test http requests on localhost:3000/messages/ with postman
- 
-  
+This application takes 2 types of header values: 'mi'- short for messageid and 'mc' for messagecontent, for example: localhost:3000/messages/?mc=This is the original message&mi=1     -POST request adds 'mi' -object to message list with the value of 'mc', the list structure looks like this: List[messageid] = "messagecontent"
