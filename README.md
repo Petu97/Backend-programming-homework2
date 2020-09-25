@@ -6,7 +6,7 @@ This project uses 2 libraries(express for routing, and ejs for dynamic frontend)
 Steps to take:
 
   1. Clone the repository
-  2. Go to directory and run `npm install` to download required libraries
+  2. Go to directory and run `npm install` to automatically install required libraries
   3. Run index.js with `node index.js`
   
 ## To test http requests on localhost:3000/messages/ with postman.
