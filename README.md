@@ -7,7 +7,7 @@ EJS requires view folder which is why it is important to load this project as a 
 Steps to take:
 
   1. Clone the repository
-  2. Go to directory and run `npm install` to automatically install required libraries (i have not tested this myslef but it should work...)
+  2. Go to directory and run `npm install` to automatically install required libraries (i have not tested this myself but it should work...)
   3. Run index.js with `node index.js`
   
 ## To test http requests on localhost:3000/messages/ with postman.
