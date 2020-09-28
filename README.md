@@ -3,6 +3,7 @@ Express testing with http request methods
 
 This repository has to be cloned as a whole for the application to work.
 This project uses 2 libraries(express for routing, and ejs for dynamic frontend)
+EJS requires view folder which is why it is important to load this project as a whole.
 Steps to take:
 
   1. Clone the repository
